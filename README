@@ -5,6 +5,6 @@ Focus: counterfactual explanations for medical imaging models
 
 ## Progress
 - [x] Day 1: Landscape + setup
-- [ ] Day 2: Medical imaging modalities
+- [ X] Day 2: Modalities (X-ray, CT, MRI, ultrasound, histopathology)
 - [ ] Day 3: DICOM hands-on
 ...
